@@ -1,0 +1,4 @@
+# Python 3.10 or newer. Python 2 is not supported.
+# Tkinter ships with the official Python 3 Windows installer (Tcl/Tk option).
+# Pillow is optional: image preview in the selected-result pane.
+Pillow>=10.0.0
